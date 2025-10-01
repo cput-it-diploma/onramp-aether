@@ -16,7 +16,7 @@ This repository provides a concise summary of all the essential commands and ste
 1. **Launch an EC2 Instance**:
    - Instance type: `t2.large` (minimum)
    - AMI: Ubuntu 22.04 LTS
-   - Storage: At least 100 GB root volume (recommended 200 GB for production)
+   - Storage: At least 50 GB root volume (recommended 80 GB for production)
    - Security Group: Open necessary ports (see below)
 
 2. **Security Group Configuration**:
